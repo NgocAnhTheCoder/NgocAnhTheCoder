@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @NgocAnhTheCoder
+- 👀 I’m interested in being a programmer when I'm older
+- 🌱 I’m currently learning begginer python
